@@ -55,21 +55,31 @@
         _mapView.zoomEnabled = NO;
         _mapView.scrollEnabled = NO;
         
-        _name = [[UILabel alloc] initWithFrame:CGRectMake(20, 20, 100, 20)];
+        _name = [[UILabel alloc] initWithFrame:CGRectMake(20, 20, 200, 25)];
         _name.textColor = [UIColor blueColor];
         _name.font = [UIFont boldSystemFontOfSize:20];
         
-        _website = [[UILabel alloc] initWithFrame:CGRectMake(20, 40, 200, 20)];
+        _website = [[UILabel alloc] initWithFrame:CGRectMake(20, 40, 300, 20)];
         _website.font = [UIFont systemFontOfSize:14];
         
-        _available = [[UILabel alloc] initWithFrame:CGRectMake(160, 20, 80, 20)];
+        _seperatorView1 = [[UIView alloc] initWithFrame:CGRectMake(20, 60, 340, 3)];
+        _seperatorView1.backgroundColor = [UIColor grayColor];
+        
+        _available = [[UILabel alloc] initWithFrame:CGRectMake(260, 20, 100, 20)];
         _available.font = [UIFont boldSystemFontOfSize:18];
+        
+        _proTip = [[UILabel alloc] initWithFrame:CGRectMake(20, 90, screenSize.size.width-20, 80)];
+        _proTip.font = [UIFont systemFontOfSize:16];
+        _proTip.numberOfLines = 3;
         
         _addressLine1 = [[UILabel alloc] initWithFrame:CGRectMake(20, 60, 200, 20)];
         _addressLine2 = [[UILabel alloc] initWithFrame:CGRectMake(20, 80, 200, 20)];
         
         _addressLine1.font = [UIFont systemFontOfSize:12];
         _addressLine2.font = [UIFont systemFontOfSize:12];
+        
+        _seperatorView2 = [[UIView alloc] initWithFrame:CGRectMake(20, 100, 340, 3)];
+        _seperatorView2.backgroundColor = [UIColor grayColor];
         
         _amenitiesOutlineView =[[UIView alloc] initWithFrame:CGRectMake(0, 495, screenSize.size.width, 5)];
         
@@ -160,10 +170,13 @@
         
         [_infoView addSubview:_name];
         [_infoView addSubview:_website];
+        [_infoView addSubview:_seperatorView1];
+        [_infoView addSubview:_seperatorView2];
         [_infoView addSubview:_available];
         [_infoView addSubview:_addressLine1];
         [_infoView addSubview:_addressLine2];
-        [_infoView addSubview:_activities];
+        //[_infoView addSubview:_activities];
+        [_infoView addSubview:_proTip];
        
         [_scrollView addSubview:_infoView];
         [_scrollView addSubview:_amenitiesOutlineView];
@@ -208,7 +221,7 @@
     else{
         self.available.textColor = [UIColor redColor];
     }
-    self.available.text = availableText;
+    self.available.text = [NSString stringWithFormat:@"(%@)",availableText];
     
     CSAddress *address = [[self.classSchedule venue] address];
     
@@ -217,6 +230,7 @@
     
     self.classDescription.text = [[self.classSchedule csClass] classDescription];
     self.activities.text = [[self.classSchedule csClass] activities];
+    self.proTip.text = [[self.classSchedule venue] proTip];
     
     CSLocation *location = [[self.classSchedule venue] location];
     

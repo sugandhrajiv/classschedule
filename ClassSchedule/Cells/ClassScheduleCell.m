@@ -23,7 +23,7 @@
         
         _venueName.frame = CGRectMake(20, -30, 300, 100);
         _proTip.frame = CGRectMake(20, -55, 350, 200);
-        _seperatorView1.frame = CGRectMake(10, 30, 350, 1);
+        _seperatorView1.frame = CGRectMake(10, 30, 355, 1);
         
         _classNameImageView = [[UIImageView alloc] initWithFrame:CGRectMake(40, 60, 60, 60)];
         _classNameImageView.image = [UIImage imageNamed:@"classname.jpg"];
@@ -32,7 +32,7 @@
         _startTimeImageView.image = [UIImage imageNamed:@"time.jpg"];
         
         _instructorNameImageView = [[UIImageView alloc] initWithFrame:CGRectMake(270, 60, 60, 60)];
-        _instructorNameImageView.image = [UIImage imageNamed:@"teacher.jpg"];
+        _instructorNameImageView.image = [UIImage imageNamed:@"instructor.jpg"];
         
         _className.frame = CGRectMake(20, 80, 100, 100);
         _classStartTime.frame = CGRectMake(140, 80, 100, 100);
@@ -40,6 +40,7 @@
         
         _venueName.font = [UIFont boldSystemFontOfSize:16];
         _proTip.font = [UIFont systemFontOfSize:12];
+        _proTip.numberOfLines = 2;
         
         _seperatorView1.backgroundColor = [UIColor grayColor];
         

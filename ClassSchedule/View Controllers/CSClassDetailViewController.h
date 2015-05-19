@@ -30,11 +30,15 @@
 @property (nonatomic, strong) UILabel *addressLine1;
 @property (nonatomic, strong) UILabel *addressLine2;
 @property (nonatomic, strong) UILabel *available;
+@property (nonatomic, strong) UILabel *proTip;
 
 // Amenities
 @property (nonatomic, strong) UIView *amenitiesView;
 @property (nonatomic, strong) UIView *amenitiesOutlineView;
 
+// Seperator Views
+@property (nonatomic, strong) UIView *seperatorView1;
+@property (nonatomic, strong) UIView *seperatorView2;
 
 @property (nonatomic, strong) UIImageView *suppliesImageView;
 @property (nonatomic, strong) UIImageView *foodImageView;
