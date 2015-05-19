@@ -1,0 +1,1047 @@
+{
+    "schedules": [
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Strength Training",
+                "alias": "performance-training",
+                "description": "A total body workout blending: cardio, strength training, agility, balance, yoga, calisthenics, plyometrics, medicine ball, stability ball, ladder drills, JC bands, TRX, and more. This is a class for those who love to work hard, challenges themselves, looking to improve; there will be grunting. This is the most efficient, total body training. ",
+                "id": 244945,
+                "name": "Performance Training"
+            },
+            "endtime": 1430991900,
+            "id": 85104784,
+            "starttime": 1430989200,
+            "teacher_name": "Brendan",
+            "venue": {
+                "activities": "Pilates, Strength Training",
+                "address": {
+                    "address_line1": "22 Hollywood Ave",
+                    "city": "Ho-Ho-Kus",
+                    "state": "NJ",
+                    "zip_code": "07423"
+                },
+                "alias": "rise-fitness-ho-ho-kus",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": false,
+                    "mats": false,
+                    "shop": false,
+                    "showers": false,
+                    "towels": true
+                },
+                "booking_window": "Opens 7 Days in Advance",
+                "description": "Rise Fitness offers the most efficient, functional full body workouts for men and women in Ho-Ho-Kus, New Jersey. No two classes are alike!",
+                "facebook_page_url": "https://www.facebook.com/RiseFitnessNJ",
+                "id": 27894,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/297/297118/6d9a_567.png",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 41.004299,
+                    "lon": -74.1174401
+                },
+                "lockers": false,
+                "name": "Rise Fitness",
+                "pro_tip": "In a rush? Try the Power Half Hour for an efficient, exhilarating thirty minutes.",
+                "showers": false,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.risefit.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "evf-360-uhs0",
+                "description": "Sweat it out with our signature, no-barbell strength and conditioning program. This is a high-intensity workout that will keep you moving for an hour and help you get fitter and leaner in no time! Perfect for all levels to improve all aspects of performance (and look better doing it!). Add this class to your current routine, or use it as a stand alone fitness regimen.",
+                "id": 172521,
+                "name": "EVF 360"
+            },
+            "endtime": 1430992800,
+            "id": 85223700,
+            "starttime": 1430989200,
+            "teacher_name": "Nicole Lee",
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "1623 York Ave",
+                    "address_line2": "",
+                    "city": "New York",
+                    "state": "NY",
+                    "zip_code": "10028"
+                },
+                "alias": "evf-performance-upper-east-side-new-york",
+                "amenities": {
+                    "class_supplies": false,
+                    "food": false,
+                    "lockers": true,
+                    "mats": false,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "Prepare to look your best with high-intensity classes that combine the most effective aspects of cardio and strength training at this beloved studio.",
+                "facebook_page_url": "http://www.facebook.com/evfperformance",
+                "id": 5223,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/275/275781/5wsl_755.jpg",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/281/281588/619w_349-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/281/281588/619w_349-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/281/281588/619w_349.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/281/281589/619x_665-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/281/281589/619x_665-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/281/281589/619x_665.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 40.7757062,
+                    "lon": -73.9475463,
+                    "name": "Upper East Side",
+                    "neighborhood": "Upper East Side",
+                    "parent_name": "Manhattan"
+                },
+                "lockers": true,
+                "name": "EVF Performance",
+                "pro_tip": "During the hour-long strength and conditioning class, you\u2019ll do everything from squats and jump rope to burpees and sit-ups to torch calories while gaining muscle and sculpting leaner limbs.",
+                "showers": true,
+                "subtitle": "Upper East Side",
+                "tz": "America/New_York",
+                "website": "http://evfperformance.com"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Yoga",
+                "alias": "synrgy",
+                "description": "",
+                "id": 233885,
+                "name": "Synrgy"
+            },
+            "endtime": 1430992800,
+            "id": 85526796,
+            "starttime": 1430989200,
+            "venue": {
+                "activities": "Yoga, Pilates, Strength Training, Dance",
+                "address": {
+                    "address_line1": "269 E Main St",
+                    "address_line2": "",
+                    "city": "East Islip",
+                    "state": "NY",
+                    "zip_code": "11730"
+                },
+                "alias": "east-islip-health-fitness",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": false,
+                    "showers": true,
+                    "towels": false
+                },
+                "description": "East Islip Health & Fitness is a full service family owned gym since 1983! Over 50 group fitness classes a week including Synrgy360, Zumba everyday, spin, yoga, Bootcamp & more.",
+                "facebook_page_url": "http://www.facebook.com/eastisliphealthandfitness",
+                "id": 27158,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/292/292709/69ut_418.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.7346977,
+                    "lon": -73.1783103,
+                    "name": "East Islip",
+                    "neighborhood": "East Islip",
+                    "parent_name": "Long Island / Hamptons"
+                },
+                "lockers": true,
+                "name": "East Islip Health & Fitness",
+                "pro_tip": "This studio is family owned and operated! They will give every client the personalized touch. ",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.eastislipfitness.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "35-minute-boot-camp",
+                "description": "This is not just another class. Different every day, our workouts consist of coordination drills, calisthenics, and body weight exercises, and employ the use of Kettlebells, resistance bands, medicine balls, and some \u201chome-grown favorites\u201d One of the best things about Hoboken Bootcamps is that people of ANY fitness level can participate. Your skill level will be taken into account and your intensity level customized on the spot, just to meet your needs and desires. Best of all, you will get a great workout in a driven but encouraging atmosphere. No military-style yelling at Hoboken Bootcamps!",
+                "id": 211765,
+                "name": "35 Minute Boot Camp"
+            },
+            "endtime": 1430991900,
+            "id": 84966347,
+            "starttime": 1430989800,
+            "teacher_name": "Michaelangelo Villalba",
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "720 Monroe St",
+                    "address_line2": "C-106",
+                    "city": "Hoboken",
+                    "state": "NJ",
+                    "zip_code": "07030"
+                },
+                "alias": "35-minute-bootcamps-hoboken",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": false,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "At 35 Minute bootcamps, they offer over 100 classes a week. They use kettlebells, dumbells, bodybars, jump ropes, battle ropes, and many more tools.",
+                "facebook_page_url": "https://www.facebook.com/35MinuteBootcamp",
+                "id": 25829,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/286/286799/65an_968.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.7471015,
+                    "lon": -74.0379567,
+                    "name": "Hoboken",
+                    "parent_name": "North Jersey"
+                },
+                "lockers": true,
+                "name": "35-Minute Bootcamps",
+                "pro_tip": "This is the unique relationship they offer to clients \u2013 attentive, encouraging and engaged personal coaches who look beyond the mere exercises and examine the whole mind, body, and soul.",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.35minutebootcamps.com"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "100-import",
+                "description": "",
+                "id": 248625,
+                "name": "100 Import"
+            },
+            "endtime": 1430995500,
+            "id": 85583344,
+            "starttime": 1430990100,
+            "teacher_name": "Doppel Ganger",
+            "venue": {
+                "address": {
+                    "address_line1": "121 W 27th St",
+                    "address_line2": "Google",
+                    "city": "New York",
+                    "state": "NY",
+                    "zip_code": "10001"
+                },
+                "alias": "classtivity-test-venue",
+                "amenities": {
+                    "class_supplies": false,
+                    "food": true,
+                    "lockers": false,
+                    "mats": false,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "CLASSTIVITY TEST VENUE PART II",
+                "facebook_page_url": "",
+                "id": 22919,
+                "images": {
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.7461073,
+                    "lon": -73.9919957,
+                    "name": "Chelsea",
+                    "neighborhood": "Chelsea",
+                    "parent_name": "Manhattan"
+                },
+                "lockers": false,
+                "name": "Classtivity Test Venue",
+                "pro_tip": "pro tip test",
+                "showers": true,
+                "subtitle": "Test Subtitle",
+                "tz": "America/New_York",
+                "website": ""
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "2015-boot-camp",
+                "description": "",
+                "id": 213022,
+                "name": "2015 Boot Camp"
+            },
+            "endtime": 1430993100,
+            "id": 84738703,
+            "starttime": 1430991000,
+            "venue": {
+                "address": {
+                    "address_line1": "121 Carolyn Blvd",
+                    "address_line2": "",
+                    "city": "Farmingdale",
+                    "state": "NY",
+                    "zip_code": "11735"
+                },
+                "alias": "xpress-body-bootcamp-farmingdale",
+                "amenities": {
+                    "class_supplies": false,
+                    "food": false,
+                    "lockers": false,
+                    "mats": false,
+                    "shop": false,
+                    "showers": false,
+                    "towels": false
+                },
+                "description": "If you want to get fit in a nonjudgemental group setting regardless of your level of fitness, this is a terrific results-oriented program like no other you have seen before.",
+                "facebook_page_url": "https://www.facebook.com/XpressBodyBootcamp",
+                "id": 25921,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/286/286797/65al_385.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.716995,
+                    "lon": -73.42251,
+                    "name": "Farmingdale",
+                    "neighborhood": "East Farmingdale",
+                    "parent_name": "Long Island / Hamptons"
+                },
+                "lockers": false,
+                "name": "Xpress Body Bootcamp",
+                "pro_tip": "Xpress Body Bootcamp was voted best Long Island bootcamp by Long Island Press!",
+                "showers": false,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.xpressbodybootcamp.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "exceed-the-workout-0w29",
+                "description": "Burn calories and increase strength in Exceed\u2019s signature full body, high intensity workout. The small group-training format combines cardio and strength while including a combination of highly effective fitness tools such as  TRX, Kettlebells, Medicine Balls, Bosu Balls, Jump Ropes, Concept2 Rowers, Tabata Method, High Intensity Interval Training (HIIT), and Bodyweight Training. Our Exceed instructors make sure no two classes are ever the same, and the workouts are constantly evolving. Classes are scalable to the individual athlete, so all fitness levels welcome.",
+                "id": 177021,
+                "name": "EXCEED: The Workout"
+            },
+            "endtime": 1430994000,
+            "id": 84962128,
+            "starttime": 1430991000,
+            "teacher_name": "Kelly O'Brien",
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "97 Reade St",
+                    "address_line2": "",
+                    "city": "New York",
+                    "state": "NY",
+                    "zip_code": "10013"
+                },
+                "alias": "exceed-physical-culture-tribeca-new-york",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": true,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": true,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "Combining metabolic, strength, cardio, and interval training, the EXCEED workout will drive and inspire you to get fit, stay fit, and be at your best every day. Exceed 50 minute classes are constantly varied and individually designed by athlete instructors to provide our clients with the safest and most effective calorie burning, strength building workouts. Using tools such as (but never limited to) TRX, kettlebells, rowers, body weight exercises, BOSU balls, High Intensity Interval Training, medicine balls, and jump ropes, the Exceed workout is constantly evolving to work your muscle with your heart and your heart with your muscle. In small group sessions, our instructors give individual attention to each athlete for a full body, high intensity, cardio and strength workout.",
+                "facebook_page_url": "https://www.facebook.com/ExceedFitnessNYC",
+                "id": 23077,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/275/275323/5wfv_611.png",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/283/283888/631s_934-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/283/283888/631s_934-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/283/283888/631s_934.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/283/283889/631t_402-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/283/283889/631t_402-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/283/283889/631t_402.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 40.7155054,
+                    "lon": -74.0082382,
+                    "name": "Tribeca",
+                    "neighborhood": "Tribeca",
+                    "parent_name": "Manhattan"
+                },
+                "lockers": true,
+                "name": "Exceed Physical Culture",
+                "pro_tip": "Arrive early to meet the instructor and ask any questions about the exercise equipment before class starts.",
+                "showers": true,
+                "subtitle": "Tribeca",
+                "tz": "America/New_York",
+                "website": "http://www.exceedphysicalculture.com"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "jf-cross-fit-circuits",
+                "description": "Body Weight Training interspersed with circuits of functional movements and calisthenics. A strength and functional training class that targets multiple muscle groups at the same time. Lots of core focus and proper form execution! Works your body from head to toe!",
+                "id": 214098,
+                "name": "JF Cross Fit Circuits"
+            },
+            "endtime": 1430994600,
+            "id": 84962522,
+            "starttime": 1430991000,
+            "teacher_name": "Vee Adams",
+            "venue": {
+                "activities": "Yoga, Cycling, Barre, Strength Training",
+                "address": {
+                    "address_line1": "345 South Ave",
+                    "address_line2": "",
+                    "city": "Garwood",
+                    "state": "NJ",
+                    "zip_code": "07027"
+                },
+                "alias": "jenifit-garwood",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": false,
+                    "mats": true,
+                    "shop": false,
+                    "showers": false,
+                    "towels": true
+                },
+                "description": "Jeni-Fit Studios offers a unique fitness experience. Barre, Boxing, Spin, TRX, Piloxing, Yoga, Outdoor Boot Camp and more all in one studio!",
+                "facebook_page_url": "https://www.facebook.com/pages/JeniFit-Studios/149144015161249",
+                "id": 25940,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/286/286935/65ef_109.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.651333,
+                    "lon": -74.3242719,
+                    "name": "Garwood",
+                    "parent_name": "North Jersey"
+                },
+                "lockers": false,
+                "name": "JeniFit",
+                "pro_tip": "At Jeni-Fit, \u201cwhere everyone knows your name,\" they will track your progress and that\u2019s why you will become FIT!",
+                "showers": false,                
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.jeni-fit.com"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "pure-barre-sbhm",
+                "description": "Lift . Tone. Burn",
+                "id": 179434,
+                "name": "Pure Barre"
+            },
+            "endtime": 1430994300,
+            "id": 84963147,
+            "starttime": 1430991000,
+            "teacher_name": "Allyson Wood",
+            "venue": {
+                "activities": "Barre",
+                "address": {
+                    "address_line1": "8025 Jericho Turnpike",
+                    "address_line2": "",
+                    "city": "Woodbury",
+                    "state": "NY",
+                    "zip_code": "11797"
+                },
+                "alias": "pure-barre-woodbury",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": false,
+                    "showers": false,
+                    "towels": false
+                },
+                "description": "Utilizing the ballet barre to perform isometric movements, Pure Barre is a total body workout that lifts your seat, tones your thighs, abs, and arms, and burns fat in record- breaking time.",
+                "facebook_page_url": "https://www.facebook.com/purebarrewoodbury",
+                "id": 23255,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/275/275800/5wt4_956.jpg",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/281/281320/612g_504-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/281/281320/612g_504-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/281/281320/612g_504.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/284/284471/63hz_967-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/284/284471/63hz_967-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/284/284471/63hz_967.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 40.8154785,
+                    "lon": -73.4751768,
+                    "name": "Woodbury",
+                    "neighborhood": "Woodbury",
+                    "parent_name": "Long Island / Hamptons"
+                },
+                "lockers": true,
+                "name": "Pure Barre",
+                "pro_tip": "In just 55 minutes you will achieve a full-body workout concentrating on the areas women struggle with the most: hips, thighs, seat, abdominals and arms.",
+                "showers": false,
+                "subtitle": "Woodbury",
+                "tz": "America/New_York",
+                "website": "http://purebarre.com/ny-woodbury/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "boot-camp-qd9t",
+                "description": "Warrior Fitness Boot Camp is a 1 hour fitness class based on the principles and rigors of the U.S. Marine Corps, the WFBC physical fitness program includes an obstacle course, calisthenics, free weights, circuit training, running, and stretching. Warriors of all levels, shapes, sizes, and ages are welcome. This cutting edge and creative fitness style guarantees results.",
+                "id": 174350,
+                "name": "Boot Camp"
+            },
+            "endtime": 1430994600,
+            "id": 84968468,
+            "starttime": 1430991000,
+            "teacher_name": "Alex & Ruben",
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "29 W 35th St",
+                    "address_line2": "Fl 3",
+                    "city": "New York",
+                    "state": "NY",
+                    "zip_code": "10001"
+                },
+                "alias": "warrior-fitness-boot-camp-new-york",
+                "amenities": {
+                    "class_supplies": false,
+                    "food": false,
+                    "lockers": true,
+                    "mats": false,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "Train like a Marine, with real Marines. Become a Warrior.",
+                "facebook_page_url": "http://www.facebook.com/warriorfitnessbootcamp",
+                "id": 4177,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/275/275756/5wrw_940.png",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/281/281841/61gx_307-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/281/281841/61gx_307-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/281/281841/61gx_307.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/281/281842/61gy_466-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/281/281842/61gy_466-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/281/281842/61gy_466.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 40.7499256,
+                    "lon": -73.9854028,
+                    "name": "Koreatown",
+                    "neighborhood": "Koreatown",
+                    "parent_name": "Manhattan"
+                },
+                "lockers": true,
+                "name": "Warrior Fitness Boot Camp",
+                "pro_tip": "With race season in full effect, Warrior Fitness Boot Camp is the place to get in shape and across the finish line!",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.warriorfitnessbootcamp.com"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Barre",
+                "alias": "pure-barre-e1c3",
+                "description": "Pure Barre is the fastest, most effective, yet safest way to change your body. In just 55 minutes you will achieve a full-body workout concentrating on the areas women struggle with the most: arms, thighs, seat, and abdominals.",
+                "id": 179432,
+                "name": "Pure Barre"
+            },
+            "endtime": 1430994300,
+            "id": 84969170,
+            "starttime": 1430991000,
+            "teacher_name": "Deihdra M.",
+            "venue": {
+                "activities": "Barre",
+                "address": {
+                    "address_line1": "319 Franklin Ave",
+                    "address_line2": "",
+                    "city": "Wyckoff",
+                    "state": "NJ",
+                    "zip_code": "07481"
+                },
+                "alias": "pure-barre-wyckoff",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": false,
+                    "showers": false,
+                    "towels": false
+                },
+                "description": "Utilizing the ballet barre to perform isometric movements, Pure Barre is a total body workout that lifts your seat, tones your thighs, abs, and arms, and burns fat in record- breaking time.",
+                "facebook_page_url": "https://www.facebook.com/wyckoffpurebarre",
+                "id": 23253,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/275/275803/5wt7_687.jpg",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/281/281318/612e_118-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/281/281318/612e_118-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/281/281318/612e_118.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/281/281319/612f_502-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/281/281319/612f_502-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/281/281319/612f_502.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 41.0123625,
+                    "lon": -74.1661116,
+                    "name": "Wyckoff",
+                    "parent_name": "North Jersey"
+                },
+                "lockers": true,
+                "name": "Pure Barre",
+                "pro_tip": "In just 55 minutes you will achieve a full-body workout concentrating on the areas women struggle with the most: hips, thighs, seat, abdominals and arms.",
+                "showers": false,
+                "subtitle": "Wyckoff",
+                "tz": "America/New_York",
+                "website": "http://purebarre.com/NJ-wyckoff/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Barre, Dance",
+                "alias": "pure-barre-21ds",
+                "description": "Lift . Tone. Burn",
+                "id": 182394,
+                "name": "Pure Barre"
+            },
+            "endtime": 1430994300,
+            "id": 84977168,
+            "starttime": 1430991000,
+            "teacher_name": "Jaime Koumoulis",
+            "venue": {
+                "activities": "Barre",
+                "address": {
+                    "address_line1": "232 NY-25A",
+                    "address_line2": "",
+                    "city": "Setauket- East Setauket",
+                    "state": "NY",
+                    "zip_code": "11733"
+                },
+                "alias": "pure-barre-east-setauket-setauket-east-setauket",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": true,
+                    "showers": false,
+                    "towels": false
+                },
+                "description": "Utilizing the ballet barre to perform isometric movements, Pure Barre is a total body workout that lifts your seat, tones your thighs, abs, and arms, and burns fat in record- breaking time.",
+                "facebook_page_url": "https://www.facebook.com/purebarreesetauket",
+                "id": 23537,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/276/276242/5x5e_852.jpg",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/281/281299/611v_376-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/281/281299/611v_376-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/281/281299/611v_376.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/281/281300/611w_283-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/281/281300/611w_283-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/281/281300/611w_283.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 40.9426106,
+                    "lon": -73.1034947,
+                    "name": "Setauket-East Setauket",
+                    "neighborhood": "Setauket-East Setauket",
+                    "parent_name": "Long Island / Hamptons"
+                },
+                "lockers": true,
+                "name": "Pure Barre",
+                "pro_tip": "In just 55 minutes you will achieve a full-body workout concentrating on the areas women struggle with the most: hips, thighs, seat, abdominals and arms.",
+                "showers": false,
+                "subtitle": "East Setauket",
+                "tz": "America/New_York",
+                "website": "http://purebarre.com/NY-eastsetauket/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "crossfit-8e4o",
+                "description": "",
+                "id": 244948,
+                "name": "CrossFit"
+            },
+            "endtime": 1430994600,
+            "id": 85105273,
+            "starttime": 1430991000,
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "701 Clinton St",
+                    "city": "Hoboken",
+                    "state": "NJ",
+                    "zip_code": "07030"
+                },
+                "alias": "hudson-river-crossfit-hoboken",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "The premier CrossFit destination in Hoboken, New Jersey. Hudson River CrossFit has down-to-earth coaches that work well with any fitness level.",
+                "facebook_page_url": "https://www.facebook.com/HudsonRiverCrossfit",
+                "id": 27899,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/297/297150/6da6_412.png",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.7456291,
+                    "lon": -74.0330197
+                },
+                "lockers": true,
+                "name": "Hudson River CrossFit",
+                "pro_tip": "Hudson River CrossFit likes to give back, they support urban gardening projects, farm to table dinners and more.",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://hudsonrivercrossfit.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Yoga",
+                "alias": "boxing-d834",
+                "description": "Test Description",
+                "id": 244949,
+                "name": "Boxing"
+            },
+            "endtime": 1430994600,
+            "id": 85105842,
+            "starttime": 1430991000,
+            "teacher_name": "Erik",
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "85 NJ-17",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "zip_code": "07073"
+                },
+                "alias": "title-boxing-club-east-rutherford",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": false,
+                    "showers": true,
+                    "towels": false
+                },
+                "description": "TITLE Boxing Club\u2019s fun group classes deliver the amazing results of boxing--minus the combat--to strengthen your body from head to toe.",
+                "facebook_page_url": "https://www.facebook.com/TITLEBoxingClubEastRutherford/timeline",
+                "id": 27896,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/297/297127/6d9j_505.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.8312007,
+                    "lon": -74.0933935
+                },
+                "lockers": true,
+                "name": "TITLE Boxing Club",
+                "pro_tip": "The club recommends you get to class more than 15 minutes beforehand, so that you can be properly set up and oriented.",
+                "showers": true,
+                "subtitle": "East Rutherford",
+                "tz": "America/New_York",
+                "website": "http://eastrutherford-route17.titleboxingclub.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "alias": "total-body-pwqg",
+                "description": "Movement training focused on strength; full body/all muscle groups",
+                "id": 176284,
+                "name": "Total Body"
+            },
+            "endtime": 1430994600,
+            "id": 85188810,
+            "starttime": 1430991000,
+            "teacher_name": "Alonzo Wilson",
+            "venue": {
+                "activities": "Strength Training",
+                "address": {
+                    "address_line1": "20 E 17th St",
+                    "address_line2": "Fl 2",
+                    "city": "New York",
+                    "state": "NY",
+                    "zip_code": "10003"
+                },
+                "alias": "tone-house-new-york",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": false,
+                    "mats": true,
+                    "shop": false,
+                    "showers": false,
+                    "towels": true
+                },
+                "description": "Tone House believes that movement training is the key to effective athletic-based, sports conditioning workouts, whether you are a competitive, elite athlete or just want to look and feel like one.",
+                "facebook_page_url": "https://www.facebook.com/tonehousenyc",
+                "id": 23040,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/275/275869/5wv1_406.png",
+                    "mobile": {
+                        "1x": "http://cdn.classtivity.com/images/281/281807/61fz_384-320x160.jpg",
+                        "2x": "http://cdn.classtivity.com/images/281/281807/61fz_384-640x320.jpg",
+                        "3x": "http://cdn.classtivity.com/images/281/281807/61fz_384.jpg",
+                        "v1x": "http://cdn.classtivity.com/images/281/281808/61g0_496-320x350.jpg",
+                        "v2x": "http://cdn.classtivity.com/images/281/281808/61g0_496-640x700.jpg",
+                        "v3x": "http://cdn.classtivity.com/images/281/281808/61g0_496.jpg"
+                    }
+                },
+                "location": {
+                    "lat": 40.7372808,
+                    "lon": -73.9912342,
+                    "name": "Union Square",
+                    "neighborhood": "Union Square",
+                    "parent_name": "Manhattan"
+                },
+                "lockers": false,
+                "name": "Tone House",
+                "pro_tip": "Sessions are extremely high intensity so please arrive mentally prepared and motivated to give 110%! All skill levels welcome.",
+                "showers": false,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.tonehousenewyork.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Yoga",
+                "alias": "daily-mysore-session",
+                "description": "Mysore style is a self paced practice following Ashtanga Yoga sequencing. Mysore practice is the name given to the style of yoga teaching developed by Sri K. Pattabhi Jois at his yoga shala in Mysore, southern India. Students of all levels from beginners to advanced practice side by side. This is one of the best ways to practice learning the sequence with hands-on adjustments from the teacher. Students are given one-on-one instruction from the teacher as they progress through a set sequence of postures, starting with the Primary Series and moving gradually into the more advanced Series. Note the Mysore start times for when teacher is in the room and you can start your practice anytime during the session. Please note end times fo",
+                "id": 227486,
+                "name": "Daily Mysore Session"
+            },
+            "endtime": 1431007200,
+            "id": 85225321,
+            "starttime": 1430991000,
+            "teacher_name": "Deb Williams",
+            "venue": {
+                "activities": "Yoga",
+                "address": {
+                    "address_line1": "127 Valley Rd",
+                    "address_line2": "",
+                    "city": "Montclair",
+                    "state": "NJ",
+                    "zip_code": "07042"
+                },
+                "alias": "ashtanga-yoga-montclair",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": false,
+                    "mats": true,
+                    "shop": false,
+                    "showers": true,
+                    "towels": false
+                },
+                "description": "Ashtanga Yoga Montclair offers a place to establish a yoga practice where you can learn and grow and be a part of a community. Teachings are true to the tradition of the Ashtanga yoga lineage. Programs include guided classes, full led primary, led beginners and an introduction to Ashtanga series.",
+                "facebook_page_url": "https://www.facebook.com/AshtangaYogaMontclair?fref=photo",
+                "id": 26868,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/296/296925/6d3x_698.png",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.8218887,
+                    "lon": -74.2198311,
+                    "name": "Montclair",
+                    "parent_name": "North Jersey"
+                },
+                "lockers": false,
+                "name": "Ashtanga Yoga Montclair",
+                "pro_tip": "Try the Led Primary Ashtanga to get an understanding of the sequence of asanas that make up the practice. You'll learn to flow in the sequence and focus on your breath.",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.ashtangayogamontclair.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Barre",
+                "alias": "barre-naked",
+                "description": "Get ready to barre it all, rock that two-piece and slip into your skinny jeans with our deliberately structured signature barre class. Designed to promote long, lean musculature, this core-centric total body workout combines isolated movements with isometric resistance, muscular endurance and flexibility exercises.",
+                "id": 237979,
+                "name": "Barre Naked"
+            },
+            "endtime": 1430994600,
+            "id": 85228379,
+            "starttime": 1430991000,
+            "teacher_name": "Taylor Good",
+            "venue": {
+                "activities": "Barre, Strength Training",
+                "address": {
+                    "address_line1": "162 Newark Ave",
+                    "address_line2": "",
+                    "city": "Jersey City",
+                    "state": "NJ",
+                    "zip_code": "07302"
+                },
+                "alias": "the-sports-barre-jersey-city",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": true,
+                    "mats": true,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "The Sports Barre is Jersey City\u2019s premiere barre and dance fitness studio. Their signature classes are designed to give you a total body workout.",
+                "facebook_page_url": "http://www.facebook.com/thesportsbarre",
+                "id": 26648,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/296/296926/6d3y_720.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.7209932,
+                    "lon": -74.0446762,
+                    "name": "Jersey City",
+                    "neighborhood": "Historic Downtown",
+                    "parent_name": "North Jersey"
+                },
+                "lockers": true,
+                "name": "The Sports Barre",
+                "pro_tip": "No previous dance experience is necessary. All classes are mixed level and open to all individuals.",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://www.thesportsbarre.com/"
+            }
+        },
+        {
+            "availability": {
+                "status": "available"
+            },
+            "class": {
+                "activities": "Strength Training, Dance",
+                "alias": "groove-intervals-row",
+                "description": "(New to Groove? Please arrive 15 minutes prior to class start time for an informative \"Active Tutorial\".)Paddle on, Paddle off. The ultimate full body group exercise. Designed for strength and calorie burning. Row as an individual on the team. Each rower sets their own pace to growth in each and every class. Your boat. Your ride. Your growth. Track your progress from class to class. Suitable for all levels.",
+                "id": 226868,
+                "name": "= Groove Intervals-Row ="
+            },
+            "endtime": 1430993700,
+            "id": 85231485,
+            "starttime": 1430991000,
+            "teacher_name": "Matt Knutzen",
+            "venue": {
+                "activities": "Cycling, Barre, Pilates, Strength Training",
+                "address": {
+                    "address_line1": "4 Lackawanna Plaza",
+                    "address_line2": "",
+                    "city": "Montclair",
+                    "state": "NJ",
+                    "zip_code": "07042"
+                },
+                "alias": "3sixty-cycling-fitness-studio-with-groove-indoor-rowing-montclair",
+                "amenities": {
+                    "class_supplies": true,
+                    "food": false,
+                    "lockers": false,
+                    "mats": true,
+                    "shop": false,
+                    "showers": true,
+                    "towels": true
+                },
+                "description": "3Sixty has expanded it's joy of cycling to include Groove Rowing, Barre classes, TRX, and more!",
+                "facebook_page_url": "http://www.facebook.com/3SixtyCyclingStudio",
+                "id": 26815,
+                "images": {
+                    "default": "http://cdn.classtivity.com/images/298/298851/6elf_500.jpg",
+                    "mobile": {}
+                },
+                "location": {
+                    "lat": 40.812631,
+                    "lon": -74.2140934,
+                    "name": "Montclair",
+                    "parent_name": "North Jersey"
+                },
+                "lockers": false,
+                "name": "3Sixty Cycling & Fitness Studio with Groove Indoor Rowing",
+                "pro_tip": "New to Rowing? Row, Row, Row into a Groove Row BEGINS class held on Sundays 12:00-12450pm. AND you should know that each Groove Row class begins with a 15 minute active tutorial. ",
+                "showers": true,
+                "subtitle": "",
+                "tz": "America/New_York",
+                "website": "http://3sixtycyclingstudio.com/"
+            }
+        }
+    ]
+}
